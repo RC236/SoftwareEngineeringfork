@@ -8,8 +8,9 @@
 int main()
 {
     //Write Hello World to the terminal with puts  ("put string")
-    puts("Hello World");
-
+    printf ("***********\n");
+    puts("Hello World\n");
+    printf("***********");
     /*
         TASK: Add two more lines of code to the above so that the output reads as follows:
 
